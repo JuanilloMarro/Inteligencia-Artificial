@@ -1,0 +1,14 @@
+C:\Users\vasqu\perceptronxor\bin\Debug\net9.0\perceptronxor.exe
+C:\Users\vasqu\perceptronxor\bin\Debug\net9.0\perceptronxor.deps.json
+C:\Users\vasqu\perceptronxor\bin\Debug\net9.0\perceptronxor.runtimeconfig.json
+C:\Users\vasqu\perceptronxor\bin\Debug\net9.0\perceptronxor.dll
+C:\Users\vasqu\perceptronxor\bin\Debug\net9.0\perceptronxor.pdb
+C:\Users\vasqu\perceptronxor\obj\Debug\net9.0\perceptronxor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasqu\perceptronxor\obj\Debug\net9.0\perceptronxor.AssemblyInfoInputs.cache
+C:\Users\vasqu\perceptronxor\obj\Debug\net9.0\perceptronxor.AssemblyInfo.cs
+C:\Users\vasqu\perceptronxor\obj\Debug\net9.0\perceptronxor.csproj.CoreCompileInputs.cache
+C:\Users\vasqu\perceptronxor\obj\Debug\net9.0\perceptronxor.dll
+C:\Users\vasqu\perceptronxor\obj\Debug\net9.0\refint\perceptronxor.dll
+C:\Users\vasqu\perceptronxor\obj\Debug\net9.0\perceptronxor.pdb
+C:\Users\vasqu\perceptronxor\obj\Debug\net9.0\perceptronxor.genruntimeconfig.cache
+C:\Users\vasqu\perceptronxor\obj\Debug\net9.0\ref\perceptronxor.dll
